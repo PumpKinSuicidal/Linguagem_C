@@ -16,5 +16,4 @@ int main() {
 
     printf("Seu salário liquido é: %.2f\n", salario);
     printf("Oque foi descontado do salário bruto foi: %.2f\n", descontos);
-
 }
