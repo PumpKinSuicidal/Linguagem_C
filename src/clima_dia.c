@@ -3,6 +3,7 @@
     int main() {
 
         int mes, n1, n2;
+        
         printf("Digite o numero de um mês:\n");
         scanf("%d", &n1);
         printf("Digite o numero de um dia:\n");
@@ -33,7 +34,7 @@
         printf("A estação do ano é Primavera.\n");
 }
     } else {
-        printf("Eu pedi o numero do mês.");
+        printf("Eu pedi o número um mês.");
     }
 
 }
